@@ -9,3 +9,5 @@ Utilize this repo for your homework to practice forking and cloning down a repo 
 2. How do local and remote repositories differ, and why is synchronization between them essential when working with Git? Provide a clear understanding of these two aspects of Git.
 
 **local is on my computer, and remote is on GitHub.com**
+
+[Link to Git Cheatsheet](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj)
